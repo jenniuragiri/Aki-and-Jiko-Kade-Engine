@@ -1,0 +1,1 @@
+To add into the game, all you have to do is drag the assets folder into the games folder, and accept all when asked to replace. 
